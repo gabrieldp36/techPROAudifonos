@@ -1,3 +1,5 @@
+![Portada](https://github.com/gabrieldp36/techPROAudifonos/assets/88417383/25a78b1c-0e49-4c70-882f-c1f4abba8972)
+
 # TechPRO Audífonos.
 
 El presente proyecto se trata de la maquetación de un sitio web orientado a la venta de audífonos.
@@ -9,5 +11,5 @@ Adicionalmente, el sitio cuenta con animaciones desarrolladas mediante css y ges
 Para visitar el sitio pueden hacer click en el siguiente link:
 
 ```
-https://tienda-muebles-gdp.netlify.app
+https://techpro-gdp.netlify.app
 ```
