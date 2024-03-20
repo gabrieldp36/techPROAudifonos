@@ -243,9 +243,15 @@ img {
     .avif .sobre-tech {
         background-image: linear-gradient( to left, transparent 50%, var(--primario) 0%), url("../assets/img/imagen-mujer.avif");
     }
-}   
+} 
 
 @media(min-width: 1600px) {
+    .sobre-tech {
+        background-size: 100%, 98rem;
+    }
+}
+
+@media(min-width: 2000px) {
     .sobre-tech {
         background-size: 100%, 210rem;
     }
@@ -443,6 +449,12 @@ img {
         background-size: 100%, 89rem;
         margin-top: var(--serparacion);
     } 
+}
+
+@media(min-width: 1600px) {
+    .newsletter {
+        background-position: center, 5rem 0rem;
+    }
 }
 
 @media(min-width: 2200px) {
